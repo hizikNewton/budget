@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "createIcons":"npx @svgr/cli --out-dir ./src/assets/icons --ignore-existing ./src/assets --typescript"
+    "createIcons": "npx @svgr/cli --out-dir ./src/assets/icons --ignore-existing ./src/assets --typescript"
   },
   "eslintConfig": {
     "extends": [
